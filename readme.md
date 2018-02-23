@@ -4,7 +4,7 @@
 
 I ~~get a lot of~~ wish I got questions ~~by email~~. This way anyone can read the answer!
 
-***ALmost*** anything means **ALMOST** *anything*. ~~Personal questions. Money. Work. Life.~~ Code. ~~Whatever.~~
+***Almost*** anything means **ALMOST** *anything*. ~~Personal questions. Money. Work. Life.~~ Code. ~~Whatever.~~
 
 Ask me questions about code, development, design, technology, JavaScript, HTML/CSS, WebAssembly, Rust, Clojure(Script), etc...
 
